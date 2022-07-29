@@ -14,6 +14,7 @@ Projects:
   
 Tutorings:  
   
+- [Methods Training](#methods-training)
 - [OOP Training](#oop-training)  
   
 ___________________________________________________________________________________________________  
@@ -30,3 +31,6 @@ Tutorings:
   
 ## OOP Training
 https://github.com/FOswald86/OOP_Training  
+  
+## Methods Training
+https://github.com/FOswald86/Methods_Training   
