@@ -8,7 +8,7 @@ Contains projects and tutorings I made for the subject "Programming and Software
   
 ___________________________________________________________________________________________________  
   
-Projects:(#projects:)  
+[Projects:](#projects:)  
   
 - [Hangman](#hangman)  
   
