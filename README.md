@@ -1,4 +1,4 @@
-# Hoehere_Technische_Lehranstalt
+# HoehereTechnischeLehranstalt
 Table of Contents
 
 Contains projects and tutorings I made for the subject "Programming and Software-Enineering"
