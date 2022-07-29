@@ -12,9 +12,9 @@ ________________________________________________________________________________
   
 - [Hangman](#hangman)  
   
-Tutorings:  
+[Tutorings:](#tutorings)  
   
-- [Methods Training](#methods-training)
+- [Methods Training](#methods-training)  
 - [OOP Training](#oop-training)  
   
 ___________________________________________________________________________________________________  
@@ -27,7 +27,7 @@ ________________________________________________________________________________
 https://github.com/FOswald86/Hangman  
 <img src="https://github.com/FOswald86/Hangman/blob/main/Hangman.gif" width="800" height="500" />  
   
-Tutorings:  
+## Tutorings:  
   
 ## Methods Training  
 https://github.com/FOswald86/Methods_Training  
