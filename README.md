@@ -11,7 +11,7 @@ ________________________________________________________________________________
 [Projects:](#projects)  
   
 - [Hangman](#hangman)  
-- [Cesar Cipher](#cesar-sipher)
+- [Cesar Cipher](#cesar-cipher)  
   
 [Tutorings:](#tutorings)  
   
