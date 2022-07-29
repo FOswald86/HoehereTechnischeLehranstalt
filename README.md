@@ -1,7 +1,7 @@
 # Hoehere_Technische_Lehranstalt
 Table of Contents
 
-Contains projects I made in suject "Programming and Software-Enineering" - POS
+Contains projects and tutorings I made for the subject "Programming and Software-Enineering"
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
