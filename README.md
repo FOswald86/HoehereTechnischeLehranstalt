@@ -29,8 +29,8 @@ https://github.com/FOswald86/Hangman
   
 Tutorings:  
   
-## OOP Training
-https://github.com/FOswald86/OOP_Training  
+## Methods Training  
+https://github.com/FOswald86/Methods_Training  
   
-## Methods Training
-https://github.com/FOswald86/Methods_Training   
+## OOP Training  
+https://github.com/FOswald86/OOP_Training  
