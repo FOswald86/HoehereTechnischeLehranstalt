@@ -8,7 +8,7 @@ Contains projects and tutorings I made for the subject "Programming and Software
   
 ___________________________________________________________________________________________________  
   
-Projects:  
+Projects:(#projects:)  
   
 - [Hangman](#hangman)  
   
@@ -21,7 +21,7 @@ ________________________________________________________________________________
   
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Projects:  
+## Projects:  
   
 ## Hangman  
 https://github.com/FOswald86/Hangman  
