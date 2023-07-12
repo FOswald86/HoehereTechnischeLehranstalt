@@ -34,7 +34,7 @@ https://github.com/FOswald86/CesarCipherGUI/tree/master
   
 ## Distributed System  
 [https://github.com/FOswald86/warehouse]
-<img src="[https://github.com/FOswald86/CesarCipherGUI/blob/master/CesarCipherGui.png](https://user-images.githubusercontent.com/86290835/253012316-4fa40d2b-b54a-41cb-a011-15cc37e8a808.png)" width="800" height="500" />    
+![image](https://github.com/FOswald86/HoehereTechnischeLehranstalt/assets/86290835/56d22c89-27a9-4fe9-8d0e-81068de6ccbf)
   
 ## Tutorings:  
   
